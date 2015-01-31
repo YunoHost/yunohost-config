@@ -1,0 +1,35 @@
+yunohost-config (2.0-rc1~megusta3) test; urgency=low
+
+  * Test build: bash-completion WIP
+
+ -- Adrien Beudin <beudbeud@yunohost.org>  Sat, 25 Oct 2014 19:30:25 +0200
+
+yunohost-config (2.0-rc1~megusta2) megusta; urgency=low
+
+  * Production build: Bump version
+
+ -- Adrien Beudin <beudbeud@yunohost.org>  Mon, 09 Jun 2014 02:07:29 +0200
+
+yunohost-config (2.0-rc1~megusta1) test; urgency=low
+
+  * Bump version
+
+ -- Adrien Beudin <beudbeud@yunohost.org>  Fri, 16 May 2014 22:01:32 +0200
+
+yunohost-config (2.0-beta4~megusta2) test; urgency=low
+
+  * Test build: Update dependencies
+
+ -- Adrien Beudin <beudbeud@yunohost.org>  Fri, 16 May 2014 22:01:32 +0200
+
+yunohost-config (2.0-beta4~megusta1) test; urgency=low
+
+  * Test build: Update dependencies
+
+ -- Adrien Beudin <beudbeud@yunohost.org>  Fri, 16 May 2014 16:26:23 +0200
+
+yunohost-config (2.0-beta4~megusta0) megusta; urgency=low
+
+  * Production build: update beta4
+
+ -- Adrien Beudin <beudbeud@yunohost.org>  Mon, 17 Mar 2014 17:16:54 +0100
