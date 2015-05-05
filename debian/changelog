@@ -1,3 +1,10 @@
+yunohost-config (2.1.2) testing; urgency=low
+
+  [ Le Kload ]
+  * [fix] Remove useless dependencies
+
+ -- Julien Malik <julien.malik@paraiso.me>  Tue, 05 May 2015 16:19:16 +0200
+
 yunohost-config (2.1.1) testing; urgency=low
 
   * Bump version to 2.1.1 to bootstrap new build workflow
